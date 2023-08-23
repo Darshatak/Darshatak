@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://darshatak.github.io/Portfolio_Website/](https://darshatak.github.io/Portfolio_Website/)
-
 - 📫 How to reach me **vyas.darshatak15866@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1llMnNEVPC_ZhV0UMZvJMExUpey03aohq/view?usp=sharing](https://drive.google.com/file/u/1/d/1llMnNEVPC_ZhV0UMZvJMExUpey03aohq/view?usp=sharing)
