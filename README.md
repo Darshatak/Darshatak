@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **vyas.darshatak15866@gmail.com**
+- 📫 How to reach me **dev.darshatak@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1llMnNEVPC_ZhV0UMZvJMExUpey03aohq/view?usp=sharing](https://drive.google.com/file/u/1/d/1llMnNEVPC_ZhV0UMZvJMExUpey03aohq/view?usp=sharing)
 
